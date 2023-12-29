@@ -1,0 +1,44 @@
+p{color:red}
+
+.note{font-size: 20px}
+
+#id-selector-demo{color: green}
+
+li[value="4"]{color:blue}
+
+*{text-align: center}
+
+ol{
+    margin-left: -40px;
+    margin-top: -20px;
+    list-style-position: inside;
+}
+
+#red{
+    color:red
+}
+
+#blue{
+    color:blue
+}
+
+#orange{
+    color:orange
+}
+
+#green{
+    color:green
+}
+
+#yellor{
+    color:yellow
+}
+
+.color-title{
+    font-weight: normal
+}
+
+img{
+    height: 200px;
+    width: 200px;
+}
